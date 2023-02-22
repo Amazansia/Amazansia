@@ -30,7 +30,7 @@
 
 # 🤸‍♂️ Current Status
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amazansia&theme=gruvbox&hide_border=false)     [![Solved.ac
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amazansia&theme=gruvbox&hide_border=false) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rgkim1110)](https://solved.ac/rgkim1110) 
 
 
