@@ -18,15 +18,8 @@
 # ✍ Blog
 [![테크 블로그](https://img.shields.io/badge/TechBlog-black?style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-sia.tistory.com/)
 
-[Kotlin에서 코드 실행 시간 재기](https://dev-sia.tistory.com/26)
-
-[트리는 방향 그래프인가? 무방향 그래프인가?](https://dev-sia.tistory.com/25)
-
-[한달짜리 회고(로접, 새해목표, 그님티, 1일1커밋)](https://dev-sia.tistory.com/24)
-
-[16장 힙으로 우선순위 유지하기](https://dev-sia.tistory.com/23)
-
-[15장 이진 탐색 트리로 속도 향상](https://dev-sia.tistory.com/22)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # 🤸‍♂️ Current Status
 
