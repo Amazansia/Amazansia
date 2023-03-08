@@ -19,11 +19,11 @@
 [![테크 블로그](https://img.shields.io/badge/TechBlog-black?style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-sia.tistory.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [18장 그래프로 뭐든지 연결하기](https://dev-sia.tistory.com/30)
 - [17장 트라이&lpar;trie&rpar;해 보는 것도 나쁘지 않다](https://dev-sia.tistory.com/29)
 - [2월 돌아보기: 취준과 그리고 여기에 스키장을 곁들인](https://dev-sia.tistory.com/27)
 - [Kotlin에서 코드 실행 시간 재기](https://dev-sia.tistory.com/26)
 - [트리는 방향 그래프인가? 무방향 그래프인가?](https://dev-sia.tistory.com/25)
-- [한달짜리 회고&lpar;로접, 새해목표, 그님티, 1일1커밋&rpar;](https://dev-sia.tistory.com/24)
 <!-- BLOG-POST-LIST:END -->
 
 # 🤸‍♂️ Current Status
