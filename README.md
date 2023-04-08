@@ -12,7 +12,7 @@
 # 🎢 Projects 
 | 프로젝트명  | 설명   | 팀원     | 역할      | 기간              |
 | :-----------------: | :------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
-| 세웃       | 코로나 팬데믹 상황 속에서 복지 사각지대에 놓인 취약계층들이 주변 이웃들로부터 필요한 돌봄 서비스를 제공받을 수 있도록 연결해주는 플랫폼 어플리케이션 | <img src ="https://img.shields.io/badge/3-Android-%233DDC84?style=for-the-badge&logo=android" ><br /><img src ="https://img.shields.io/badge/2-Backend-%6DB33F?style=for-the-badge&logo=Spring" > | <img src ="https://img.shields.io/badge/-Team Leader-red?style=flat-square" ><br /><img src ="https://img.shields.io/badge/-Android-%233DDC84?style=for-the-badge" > | 2020.07 ~ 2020.12 |
+| [세웃](https://github.com/teamTIPS/Saeut-android)       | 코로나 팬데믹 상황 속에서 복지 사각지대에 놓인 취약계층들이 주변 이웃들로부터 필요한 돌봄 서비스를 제공받을 수 있도록 연결해주는 플랫폼 어플리케이션 | <img src ="https://img.shields.io/badge/3-Android-%233DDC84?style=for-the-badge&logo=android" ><br /><img src ="https://img.shields.io/badge/2-Backend-%6DB33F?style=for-the-badge&logo=Spring" > | <img src ="https://img.shields.io/badge/-Team Leader-red?style=flat-square" ><br /><img src ="https://img.shields.io/badge/-Android-%233DDC84?style=for-the-badge" > | 2020.07 ~ 2020.12 |
 | Co-Alarm  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 코로나19 공적 마스크 재고를 지도에 표시해 주는 어플리케이션  | <img src ="https://img.shields.io/badge/4-Android-%233DDC84?style=for-the-badge&logo=android" ><br /><img src ="https://img.shields.io/badge/1-iOS-F05138?style=for-the-badge&logo=Swift" > | <img src ="https://img.shields.io/badge/-Android-%233DDC84?style=for-the-badge" > | 2020.04 ~ 2020.06 |
 
 # ✍ Blog
