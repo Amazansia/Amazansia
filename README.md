@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,%20I'm%20Sia!&fontSize=80&fontAlign=65)
 
 # 안드로이드 개발자 김려경입니다.
-✅ 일상에 녹아드는 서비스를 개발하고자 합니다.
+✅ 끊임없이 질문하고 공유하는 사람입니다.
 
 ✅ 추진력과 호기심으로 승부합니다.
 
