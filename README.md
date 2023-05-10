@@ -19,11 +19,11 @@
 [![테크 블로그](https://img.shields.io/badge/TechBlog-black?style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-sia.tistory.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [4월을 떠나보내며: 중요한 건 꺾여도 그냥 하는 마음](https://dev-sia.tistory.com/39)
 - [Kotlin의 Equality, == vs ===](https://dev-sia.tistory.com/38)
 - [백준 N과 M &lpar;9&rpar; - boj15663](https://dev-sia.tistory.com/37)
 - [코틀린 너무 재밌다는 글](https://dev-sia.tistory.com/36)
 - [프로그래머스 - Lv2. 후보키 Kotlin](https://dev-sia.tistory.com/35)
-- [첫 글](https://dev-sia.tistory.com/34)
 <!-- BLOG-POST-LIST:END -->
 
 # 🤸‍♂️ Current Status
