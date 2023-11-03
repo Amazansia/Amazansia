@@ -19,11 +19,11 @@
 [![테크 블로그](https://img.shields.io/badge/TechBlog-black?style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-sia.tistory.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [RecyclerView에 대하여 &lpar;feat. ListView&rpar;](https://dev-sia.tistory.com/46)
 - [LIS](https://dev-sia.tistory.com/45)
 - [백준 꼬인 전깃줄 - boj1365](https://dev-sia.tistory.com/44)
 - [Kotlin에서 Set에 Array 넣는 방법](https://dev-sia.tistory.com/43)
 - [백준 표회전 - boj2932](https://dev-sia.tistory.com/42)
-- [그리고 상반기가 지나갔다...](https://dev-sia.tistory.com/41)
 <!-- BLOG-POST-LIST:END -->
 
 # 🤸‍♂️ Current Status
