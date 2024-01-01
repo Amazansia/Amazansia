@@ -19,11 +19,11 @@
 [![테크 블로그](https://img.shields.io/badge/TechBlog-black?style=for-the-badge&logo=Tistory&logoColor=white)](https://dev-sia.tistory.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [연간회고가 되어버린 월간회고](https://dev-sia.tistory.com/49)
 - [스위치봇 온오프 위젯 만들기](https://dev-sia.tistory.com/48)
 - [RecyclerView 구성요소](https://dev-sia.tistory.com/47)
 - [RecyclerView에 대하여 &lpar;feat. ListView&rpar;](https://dev-sia.tistory.com/46)
 - [LIS](https://dev-sia.tistory.com/45)
-- [백준 꼬인 전깃줄 - boj1365](https://dev-sia.tistory.com/44)
 <!-- BLOG-POST-LIST:END -->
 
 # 🤸‍♂️ Current Status
